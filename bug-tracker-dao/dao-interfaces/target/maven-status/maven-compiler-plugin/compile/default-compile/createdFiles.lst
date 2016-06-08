@@ -1,0 +1,4 @@
+com\mindtree\bug\tracker\entity\Genie.class
+com\mindtree\bug\tracker\entity\Users.class
+com\mindtree\bug\tracker\entity\UserRoles.class
+com\mindtree\bug\tracker\dao\GenieDao.class

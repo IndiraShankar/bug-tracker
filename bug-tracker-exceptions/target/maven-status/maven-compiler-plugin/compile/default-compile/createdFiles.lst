@@ -1,0 +1,2 @@
+com\mindtree\bug\tracker\exception\DatabaseException.class
+com\mindtree\bug\tracker\exception\ServiceException.class
